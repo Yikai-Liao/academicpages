@@ -9,9 +9,13 @@ redirect_from:
 
 I am currently a Ph.D. student at the **College of Computing and Data Science**, **Nanyang Technological University (NTU)**, where I am researching **Continual Learning** under the guidance of [Prof. Ying Wei](https://wei-ying.net/).
 
-Previously, I co-founded **Nanjing Qiyin Technology Co. Ltd.**, where we successfully completed a **million-level seed round financing** and received the **National Gold Medal** for our **Boya AI Music Project** at the **7th China College Students "Internet+" Innovation and Entrepreneurship Competition**.
+Previously, I co-founded an AI music company, **Nanjing Qiyin Technology Co. Ltd.**, where we successfully completed a **million-level seed round financing** and received the **National Gold Medal** for our **Boya AI Music Project** at the **7th China College Students "Internet+" Innovation and Entrepreneurship Competition**.
 
-# Publications
+My research interests lie in **machine learning**, particularly in **continual learning**, **compositional learning** and **model model merging**. I aim to create models with high efficiency while mastering multiple personalized skills.
+
+Although I no longer focus my efforts on AI music generation, I still maintain a high-performance Python [library](https://github.com/Yikai-Liao/symusic) for symbolic music data preprocessing in my spare time, as a contribution to the AI music open-source community.
+
+## Publications
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
