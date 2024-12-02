@@ -8,28 +8,26 @@ redirect_from:
 ---
 {% include base_path %}
 
-Education
-=========
+# Education
 
-### Nanyang Technological University (NTU)
+## Nanyang Technological University (NTU)
 
-> Ph.D. in College of Computing and Data Science (CCDS)
+> **Ph.D.** in *College of Computing and Data Science (CCDS)*
 
-* **Aug 2024 - Present**
+* Aug 2024 - Present
 * Singapore
 * Researching **Continual Learning** under the guidance of [Prof. Ying Wei](https://wei-ying.net/).
 
-### Beijing University of Posts and Telecommunication (BUPT)
+## Beijing University of Posts and Telecommunication (BUPT)
 
-> Bachelor in Intelligence Science and Technology
+> **Bachelor** in *Intelligence Science and Technology*
 
-* **Sep 2020 - Jun 2024**
+* Sep 2020 - Jun 2024
 * Beijing
 * GPA: 89.13/100 (Rank: 8/68)
 
 
-Work experience
-===============
+# Work experience
 
 ### Nanjing Qiyin Technology Co. Ltd.
 
