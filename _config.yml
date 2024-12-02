@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "lyk-photo.jpeg"
   name             : "Yikai Liao (廖奕凯)"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Singapore"
   employer         : "Nanyang Technological University"
-  uri              : “https://yikai-liao.github.io/academicpages/”
+  uri              : ""
   email            : "yikai003@e.ntu.edu.sg" 
 
   # Academic websites
