@@ -11,26 +11,31 @@ redirect_from:
 Education
 =========
 
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### Nanyang Technological University (NTU)
+
+> Ph.D. in College of Computing and Data Science (CCDS)
+
+* **Aug 2024 - Present**
+* Singapore
+* Researching **Continual Learning** under the guidance of [Prof. Ying Wei](https://wei-ying.net/).
+
+### Beijing University of Posts and Telecommunication (BUPT)
+
+> Bachelor in Intelligence Science and Technology
+
+* **Sep 2020 - Jun 2024**
+* Beijing
+* GPA: 89.13/100 (Rank: 8/68)
+
 
 Work experience
 ===============
 
-* Spring 2024: Academic Pages Collaborator
+### Nanjing Qiyin Technology Co. Ltd.
 
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-* Fall 2015: Research Assistant
+> Co-founder and AI Algorithm Leader
 
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-* Summer 2015: Research Assistant
-
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-    Publications
+* 2021 - 2024
+* Awarded the **National Gold Medal** for the **Boya AI Music Project** at the **7th China College Students "Internet+" Innovation and Entrepreneurship Competition**.
+* Founded **Qiyin Technology** and secured **million-level seed round financing** from **MiraclePlus** (formerly YC China).
+* Designed and trained models for **symbolic music generation**, **melody generation**, and **music segment similarity** using contrastive learning.
