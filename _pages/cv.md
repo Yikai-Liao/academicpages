@@ -29,7 +29,7 @@ redirect_from:
 
 # Work experience
 
-### Nanjing Qiyin Technology Co. Ltd.
+## Nanjing Qiyin Technology Co. Ltd.
 
 > Co-founder and AI Algorithm Leader
 
@@ -37,3 +37,10 @@ redirect_from:
 * Awarded the **National Gold Medal** for the **Boya AI Music Project** at the **7th China College Students "Internet+" Innovation and Entrepreneurship Competition**.
 * Founded **Qiyin Technology** and secured **million-level seed round financing** from **MiraclePlus** (formerly YC China).
 * Designed and trained models for **symbolic music generation**, **melody generation**, and **music segment similarity** using contrastive learning.
+
+
+# Publications
+
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
