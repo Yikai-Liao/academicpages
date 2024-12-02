@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "lyk-photo.jpeg"
   name             : "Yikai Liao (廖奕凯)"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/his" # example: "she/her"  
+  bio              : "A Ph.D. student at Nanyang Technological University, researching continual learning and model merging, with previous experience co-founding an AI music company."
   location         : "Singapore"
   employer         : "Nanyang Technological University"
   uri              : ""
